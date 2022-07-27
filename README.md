@@ -1,0 +1,2 @@
+# frida-logs
+Its logs
